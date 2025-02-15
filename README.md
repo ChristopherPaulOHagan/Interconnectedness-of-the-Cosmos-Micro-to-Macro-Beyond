@@ -10,10 +10,10 @@ To explore and document the intricate web of waves and strings connecting the mi
 
 ## Key Concepts
 1. **Interconnectedness:** Every aspect of reality is interconnected, from the quantum level to the cosmic scale. Understanding these connections can provide valuable insights into the nature of existence.
-2. **Wave Patterns:** Waves are fundamental to many physical phenomena and can provide a unifying framework for understanding the behavior of matter and energy.
+2. **Wave Theory:** Waves are fundamental to many physical phenomena and can provide a unifying framework for understanding the behavior of matter and energy.
 3. **Ethical Considerations:** Ethical principles should guide our actions and decisions, ensuring that our pursuit of knowledge and innovation benefits all humanity.
 4. **Holistic Approach:** By integrating insights from various disciplines, we can develop more comprehensive and effective solutions to complex problems.
-5. **String Patterns:** Strings are fundamental to many physical phenomena and can coupled with wave theory provide a unifying framework for understanding the communication of energy, information and matter.
+5. **String Theory:** Strings are fundamental to many physical phenomena and can coupled with wave theory provide a unifying framework for understanding the communication of energy, information and matter.
 6. **Tidal Forces & Frame-Dragging (General Relativity):** How mass and rotation influence surrounding spacetime. General Relativity: The warping of spacetime around the celestial body, influencing the string vibrations. E=MC2 + Distance and Time over matter.
 7. **Electromagnetic Fields:** The interaction of charged particles around a rotating celestial body (e.g., Earth's magnetosphere).
 8. **Quantum Field Theory:** The idea that all particles and forces exist as fluctuations in underlying fields, much like strings under tension and pressure. The idea of particles as excitations of underlying fields, analogous to the vibrations of the strings.
@@ -26,7 +26,6 @@ To explore and document the intricate web of waves and strings connecting the mi
 14. **Holism:** The idea that the system's behavior is more than the sum of its individual parts, exemplified by the interconnectedness of the strings and the celestial body.
 15. **Centripetal force v Centrifugal force:**. It can incorporate fictitious and physical forces. 
 16. **Pilot Wave & Royal King Pilot Wave:** Pilot wave theory proposes that particles are guided by "pilot waves" that determine their motion. It's a deterministic and realistic interpretation of quantum mechanics that offers a different perspective on the quantum world. A Royal King Pilot Wave proposes that a wave needs enough energy to be ahead of a particle to determine their motion, speed and trajectory to be able to traverse the distances of the cosmos. It is an addition to the pilot wave theory.
-
 
 ## Purpose
 The purpose of this repository is to bring together insights from various disciplines, including science, technology, philosophy, language, education, religion and spirituality, to explore the fundamental principles that govern the cosmos. By understanding these principles, we can develop innovative solutions to the challenges facing humanity and work towards a more harmonious and equitable world for all life forms. Essentially design systems that incorporate as much ethical, logical and philosophical detail as possible.
